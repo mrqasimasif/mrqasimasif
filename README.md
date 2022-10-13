@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **MY PERSONAL PORTFOLIO**
-- 🌱 I’m currently learning **WEB DEVELOPEMT**
-- 👯 I’m looking to collaborate on **MACHINE LEARING PROJECTS**
-- 💬 Ask me about **ANYTHING ABOUT TECH**
+- 🔭 I’m currently working on **ENGLISH TEXT TO SPEECH PROJECT**
+- 🌱 I’m currently learning **DEEP LEARNING WITH ANDREW NG**
+- 👯 I’m looking to collaborate on **RESEARCH ON MEDICAL IMAGING**
+- 💬 Ask me about **WHY ViTs ARE BETTER THAN CNNs**
 - 📫 How to reach me: **FACEBOOK, INSTAGRAM, LINKEDIN, EMAIL**
 - 😄 Pronouns: **HE/HIM**
 - ⚡ Fun fact: **BOXER | GUITARIST | TRAVELLER**
-- 🇺🇸 UGRAD SPRING 2022 AT **FAYETTEVILLE STATE UNIVERSITY, NORTH CAROLINA**
+- 🇺🇸 UGRAD SPRING 2022 EXCHANGE AT **FAYETTEVILLE STATE UNIVERSITY, NORTH CAROLINA**
 
