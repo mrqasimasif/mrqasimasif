@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on **ENGLISH TEXT TO SPEECH PROJECT**
+- 🕸️ [Portfolio Website] (https://mrqasimasif.github.io)
+- 🔭 I’m currently working on **ibex Sense**
 - 🌱 I’m currently learning **DEEP LEARNING WITH ANDREW NG**
 - 👯 I’m looking to collaborate on **RESEARCH ON MEDICAL IMAGING**
 - 💬 Ask me about **WHY ViTs ARE BETTER THAN CNNs**
