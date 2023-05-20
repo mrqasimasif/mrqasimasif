@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🕸️ [Portfolio Website] (https://mrqasimasif.github.io)
+- 🕸️ [Portfolio Website](https://mrqasimasif.github.io)
 - 🔭 I’m currently working on **ibex Sense**
 - 🌱 I’m currently learning **DEEP LEARNING WITH ANDREW NG**
 - 👯 I’m looking to collaborate on **RESEARCH ON MEDICAL IMAGING**
